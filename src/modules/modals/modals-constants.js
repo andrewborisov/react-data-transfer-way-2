@@ -1,0 +1,6 @@
+export const MODALS_STORE_KEY = 'modals';
+
+const MODULE_NAMESPACE = '@MODALS';
+
+export const SHOW_MODAL = `${MODULE_NAMESPACE}/SHOW_MODAL`;
+export const CLOSE_MODAL = `${MODULE_NAMESPACE}/CLOSE_MODAL`;
